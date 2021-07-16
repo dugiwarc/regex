@@ -44,3 +44,6 @@ Regex_Pattern = /(\d+)x(\d+)/;
 
 // Exercise 14: Matching Conditional Text
 Regex_Pattern = /I love (cats|dogs)/;
+
+// Test 1: Matching Digits
+let Test_String = "1234567890";
